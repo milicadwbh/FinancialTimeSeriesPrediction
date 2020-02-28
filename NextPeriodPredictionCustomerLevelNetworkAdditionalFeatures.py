@@ -60,7 +60,7 @@ def predict(cal):
     date = cal.get_date()
     print(date)
 
-    minPurchases = 20
+    minPurchases = 6
 
     i = 0
     avgError = 0
@@ -81,7 +81,7 @@ def predict(cal):
     timestamp = time.time()
 
     resultsFilename = os.path.join(resultsDir, "predictionResultsForDate" + date.strftime("%Y-%m-%d") + "-Min" + str(
-        minPurchases) + "Purchases-" + str(timestamp) + "AdditionalFeatures.txt")
+        minPurchases) + "Purchases-" + str(timestamp) + "AdditionalFeatures2.txt")
     resultsFile = open(resultsFilename, 'w')
 
     for filename in glob.glob(os.path.join(dir, '*.csv')):
@@ -130,7 +130,7 @@ def predict(cal):
             trainX3 = trainX3.reshape(len(trainX3), 1)
             output = output.reshape(len(output), 1)
 
-            dataset = hstack((trainX1, trainX2, output))
+            dataset = hstack((trainX1, trainX2, trainX3, output))
 
             # number of time steps
             n_steps = 3
@@ -155,10 +155,10 @@ def predict(cal):
                 # fit model
                 model.fit(x, y, epochs=200, verbose=0)
                 # demonstrate prediction
-                x_input = hstack((trainX1[len(trainX1) - 3:], trainX2[len(trainX2) - 3:]))
-                line = "x = [" + str(x_input[0, 0]) + ", " + str(x_input[0, 1]) + "\n" \
-                       + str(x_input[1, 0]) + ", " + str(x_input[1, 1]) + "\n" \
-                       + str(x_input[2, 0]) + ", " + str(x_input[2, 1]) + "]"
+                x_input = hstack((trainX1[len(trainX1) - 3:], trainX2[len(trainX2) - 3:], trainX3[len(trainX3) - 3:]))
+                line = "x = [" + str(x_input[0, 0]) + ", " + str(x_input[0, 1]) + ", " + str(x_input[0, 2]) + "\n" \
+                       + str(x_input[1, 0]) + ", " + str(x_input[1, 1]) + ", " + str(x_input[1, 2]) + "\n" \
+                       + str(x_input[2, 0]) + ", " + str(x_input[2, 1]) + ", " + str(x_input[2, 2]) + "]"
                 print(line)
                 resultsFile.write(line + "\n")
                 x_input = x_input.reshape((1, n_steps, n_features))

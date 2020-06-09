@@ -1,0 +1,2 @@
+InvDate,CustNo,ItemNo,InvQty,InvDay,PrevInvDate,T2InvDate,T3InvDate,DayDiff,DayDiff2,DayDiff3,DayDiffMean,DayDiffStd,ItemEncoded
+2015-10-16,WEA109,SPC1156,4,2015-10-16,2015-09-10,2015-06-11,2015-05-01,36.0,127.0,168.0,56.0,30.4138126514911,5035

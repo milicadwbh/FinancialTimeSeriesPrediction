@@ -1,0 +1,2 @@
+InvDate,CustNo,ItemNo,InvQty,InvDay,PrevInvDate,T2InvDate,T3InvDate,DayDiff,DayDiff2,DayDiff3,DayDiffMean,DayDiffStd,ItemEncoded
+2017-08-02,GRE241,06-2444,2,2017-08-02,2017-08-01,2017-07-31,2016-12-29,1.0,2.0,216.0,72.0,122.97560733739029,3610

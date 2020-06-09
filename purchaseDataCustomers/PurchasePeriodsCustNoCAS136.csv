@@ -1,0 +1,2 @@
+InvDate,CustNo,ItemNo,InvQty,InvDay,PrevInvDate,T2InvDate,T3InvDate,DayDiff,DayDiff2,DayDiff3,DayDiffMean,DayDiffStd,ItemEncoded
+2015-06-02,CAS136,B2-0001,1,2015-06-02,2015-05-19,2015-05-12,2015-05-06,14.0,21.0,27.0,9.0,4.358898943540674,4519

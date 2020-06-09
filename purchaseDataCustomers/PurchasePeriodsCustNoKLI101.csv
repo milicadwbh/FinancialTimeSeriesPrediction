@@ -1,0 +1,2 @@
+InvDate,CustNo,ItemNo,InvQty,InvDay,PrevInvDate,T2InvDate,T3InvDate,DayDiff,DayDiff2,DayDiff3,DayDiffMean,DayDiffStd,ItemEncoded
+2017-08-29,KLI101,02-5799,12,2017-08-29,2017-03-27,2016-12-27,2016-02-24,155.0,245.0,552.0,184.0,111.36875683960919,2144

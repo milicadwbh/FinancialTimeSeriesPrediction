@@ -1,0 +1,2 @@
+InvDate,CustNo,ItemNo,InvQty,InvDay,PrevInvDate,T2InvDate,T3InvDate,DayDiff,DayDiff2,DayDiff3,DayDiffMean,DayDiffStd,ItemEncoded
+2017-10-31,LAN134,01-3252,2,2017-10-31,2017-08-30,2016-10-25,2016-05-24,62.0,371.0,525.0,175.0,124.83188695201238,161

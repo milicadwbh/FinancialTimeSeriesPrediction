@@ -1,0 +1,2 @@
+InvDate,CustNo,ItemNo,InvQty,InvDay,PrevInvDate,T2InvDate,T3InvDate,DayDiff,DayDiff2,DayDiff3,DayDiffMean,DayDiffStd,ItemEncoded
+2017-05-03,GER110,02-0180,2,2017-05-03,2015-10-14,2015-07-14,2015-05-05,567.0,659.0,729.0,243.0,280.8077634254438,395

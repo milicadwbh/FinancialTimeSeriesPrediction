@@ -1,0 +1,2 @@
+InvDate,CustNo,ItemNo,InvQty,InvDay,PrevInvDate,T2InvDate,T3InvDate,DayDiff,DayDiff2,DayDiff3,DayDiffMean,DayDiffStd,ItemEncoded
+2017-10-23,FAI159,02-3633,12,2017-10-23,2015-10-19,2015-10-17,2015-09-10,735.0,737.0,774.0,258.0,413.46462968432985,1522

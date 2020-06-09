@@ -1,0 +1,2 @@
+InvDate,CustNo,ItemNo,InvQty,InvDay,PrevInvDate,T2InvDate,T3InvDate,DayDiff,DayDiff2,DayDiff3,DayDiffMean,DayDiffStd,ItemEncoded
+2016-09-19,MYR101,04-2099,1,2016-09-19,2016-02-02,2015-12-21,2015-07-21,230.0,273.0,426.0,142.0,93.98404119849285,3392

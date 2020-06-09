@@ -1,0 +1,2 @@
+InvDate,CustNo,ItemNo,InvQty,InvDay,PrevInvDate,T2InvDate,T3InvDate,DayDiff,DayDiff2,DayDiff3,DayDiffMean,DayDiffStd,ItemEncoded
+2016-04-26,TRP101,02-5067,1,2016-04-26,2016-01-28,2015-09-10,2015-06-19,89.0,229.0,312.0,104.0,31.32091952673165,1930

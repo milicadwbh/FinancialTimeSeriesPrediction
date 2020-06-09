@@ -1,0 +1,2 @@
+InvDate,CustNo,ItemNo,InvQty,InvDay,PrevInvDate,T2InvDate,T3InvDate,DayDiff,DayDiff2,DayDiff3,DayDiffMean,DayDiffStd,ItemEncoded
+2016-01-26,BSD100,02-1525,6,2016-01-26,2015-07-14,2015-05-27,2015-05-19,196.0,244.0,252.0,84.0,99.03534722511958,846

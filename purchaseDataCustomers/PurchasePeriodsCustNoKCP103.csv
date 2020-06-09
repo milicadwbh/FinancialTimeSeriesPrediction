@@ -1,0 +1,2 @@
+InvDate,CustNo,ItemNo,InvQty,InvDay,PrevInvDate,T2InvDate,T3InvDate,DayDiff,DayDiff2,DayDiff3,DayDiffMean,DayDiffStd,ItemEncoded
+2017-10-10,KCP103,02-3134,2,2017-10-10,2016-06-08,2016-01-27,2015-08-19,489.0,622.0,783.0,261.0,197.94948850653796,1358

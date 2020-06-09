@@ -1,0 +1,2 @@
+InvDate,CustNo,ItemNo,InvQty,InvDay,PrevInvDate,T2InvDate,T3InvDate,DayDiff,DayDiff2,DayDiff3,DayDiffMean,DayDiffStd,ItemEncoded
+2015-11-23,GRA199,04-1024,2,2015-11-23,2015-08-04,2015-07-14,2015-06-23,111.0,132.0,153.0,51.0,51.96152422706632,3357

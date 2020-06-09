@@ -1,0 +1,2 @@
+InvDate,CustNo,ItemNo,InvQty,InvDay,PrevInvDate,T2InvDate,T3InvDate,DayDiff,DayDiff2,DayDiff3,DayDiffMean,DayDiffStd,ItemEncoded
+2016-11-21,MRP114,02-5076,1,2016-11-21,2016-07-23,2016-07-16,2016-07-06,121.0,128.0,138.0,46.0,64.96922348312314,1933

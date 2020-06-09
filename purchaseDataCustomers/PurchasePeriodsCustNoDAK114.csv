@@ -1,0 +1,2 @@
+InvDate,CustNo,ItemNo,InvQty,InvDay,PrevInvDate,T2InvDate,T3InvDate,DayDiff,DayDiff2,DayDiff3,DayDiffMean,DayDiffStd,ItemEncoded
+2016-11-07,DAK114,02-8819,4,2016-11-07,2016-11-04,2015-12-09,2015-08-06,3.0,334.0,459.0,153.0,165.7829906836042,2964

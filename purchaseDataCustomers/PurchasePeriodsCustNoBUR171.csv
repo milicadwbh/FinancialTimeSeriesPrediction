@@ -1,0 +1,2 @@
+InvDate,CustNo,ItemNo,InvQty,InvDay,PrevInvDate,T2InvDate,T3InvDate,DayDiff,DayDiff2,DayDiff3,DayDiffMean,DayDiffStd,ItemEncoded
+2015-08-25,BUR171,SPC1048,1,2015-08-25,2015-08-15,2015-08-11,2015-05-12,10.0,14.0,105.0,35.0,48.590122453025366,4929

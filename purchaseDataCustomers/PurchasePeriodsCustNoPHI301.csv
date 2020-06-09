@@ -1,0 +1,2 @@
+InvDate,CustNo,ItemNo,InvQty,InvDay,PrevInvDate,T2InvDate,T3InvDate,DayDiff,DayDiff2,DayDiff3,DayDiffMean,DayDiffStd,ItemEncoded
+2016-03-08,PHI301,02-4165,1,2016-03-08,2016-03-07,2015-09-28,2015-09-10,1.0,162.0,180.0,60.0,87.88060081724521,1677

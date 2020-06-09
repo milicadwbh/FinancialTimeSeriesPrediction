@@ -1,0 +1,2 @@
+InvDate,CustNo,ItemNo,InvQty,InvDay,PrevInvDate,T2InvDate,T3InvDate,DayDiff,DayDiff2,DayDiff3,DayDiffMean,DayDiffStd,ItemEncoded
+2016-06-06,MCP157,02-3111,1,2016-06-06,2016-05-20,2016-03-11,2015-11-06,17.0,87.0,213.0,71.0,54.506880299646575,1351

@@ -1,0 +1,2 @@
+InvDate,CustNo,ItemNo,InvQty,InvDay,PrevInvDate,T2InvDate,T3InvDate,DayDiff,DayDiff2,DayDiff3,DayDiffMean,DayDiffStd,ItemEncoded
+2015-10-08,MHP100,02-6908,15,2015-10-08,2015-10-01,2015-08-06,2015-06-04,7.0,63.0,126.0,42.0,30.512292604784715,2415

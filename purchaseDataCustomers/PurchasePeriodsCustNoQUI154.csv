@@ -1,0 +1,2 @@
+InvDate,CustNo,ItemNo,InvQty,InvDay,PrevInvDate,T2InvDate,T3InvDate,DayDiff,DayDiff2,DayDiff3,DayDiffMean,DayDiffStd,ItemEncoded
+2015-09-03,QUI154,02-6577,4,2015-09-03,2015-06-16,2015-05-28,2015-05-21,79.0,98.0,105.0,35.0,38.57460304397182,2336

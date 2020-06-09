@@ -1,0 +1,2 @@
+InvDate,CustNo,ItemNo,InvQty,InvDay,PrevInvDate,T2InvDate,T3InvDate,DayDiff,DayDiff2,DayDiff3,DayDiffMean,DayDiffStd,ItemEncoded
+2017-09-29,RIN108,02-1261,3,2017-09-29,2017-09-18,2015-07-15,2015-06-30,11.0,807.0,822.0,274.0,452.0696848938225,748

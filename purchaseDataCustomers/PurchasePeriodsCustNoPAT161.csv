@@ -1,0 +1,2 @@
+InvDate,CustNo,ItemNo,InvQty,InvDay,PrevInvDate,T2InvDate,T3InvDate,DayDiff,DayDiff2,DayDiff3,DayDiffMean,DayDiffStd,ItemEncoded
+2016-05-25,PAT161,02-4728,1,2016-05-25,2016-04-19,2016-03-15,2016-02-04,36.0,71.0,111.0,37.0,2.6457513110645907,1801

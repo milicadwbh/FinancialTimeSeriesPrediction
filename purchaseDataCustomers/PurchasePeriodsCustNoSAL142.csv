@@ -1,0 +1,2 @@
+InvDate,CustNo,ItemNo,InvQty,InvDay,PrevInvDate,T2InvDate,T3InvDate,DayDiff,DayDiff2,DayDiff3,DayDiffMean,DayDiffStd,ItemEncoded
+2015-09-14,SAL142,02-8557,20,2015-09-14,2015-09-11,2015-09-08,2015-07-16,3.0,6.0,60.0,20.0,29.444863728670914,2883

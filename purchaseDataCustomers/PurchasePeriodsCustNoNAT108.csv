@@ -1,0 +1,2 @@
+InvDate,CustNo,ItemNo,InvQty,InvDay,PrevInvDate,T2InvDate,T3InvDate,DayDiff,DayDiff2,DayDiff3,DayDiffMean,DayDiffStd,ItemEncoded
+2017-03-21,NAT108,02-1220,4,2017-03-21,2017-03-15,2017-01-13,2016-11-15,6.0,67.0,126.0,42.0,31.192947920964443,738

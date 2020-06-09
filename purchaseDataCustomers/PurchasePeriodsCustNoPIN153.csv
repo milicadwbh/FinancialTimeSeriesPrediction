@@ -1,0 +1,2 @@
+InvDate,CustNo,ItemNo,InvQty,InvDay,PrevInvDate,T2InvDate,T3InvDate,DayDiff,DayDiff2,DayDiff3,DayDiffMean,DayDiffStd,ItemEncoded
+2015-11-13,PIN153,01-1181,2,2015-11-13,2015-10-28,2015-08-19,2015-08-12,16.0,86.0,93.0,31.0,34.07345007480164,94

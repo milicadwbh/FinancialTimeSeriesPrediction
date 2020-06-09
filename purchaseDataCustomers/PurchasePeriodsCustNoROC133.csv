@@ -1,0 +1,2 @@
+InvDate,CustNo,ItemNo,InvQty,InvDay,PrevInvDate,T2InvDate,T3InvDate,DayDiff,DayDiff2,DayDiff3,DayDiffMean,DayDiffStd,ItemEncoded
+2015-12-02,ROC133,02-5594,3,2015-12-02,2015-07-07,2015-05-28,2015-05-15,148.0,188.0,201.0,67.0,71.43528539874394,2089

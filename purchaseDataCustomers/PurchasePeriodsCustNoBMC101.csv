@@ -1,0 +1,2 @@
+InvDate,CustNo,ItemNo,InvQty,InvDay,PrevInvDate,T2InvDate,T3InvDate,DayDiff,DayDiff2,DayDiff3,DayDiffMean,DayDiffStd,ItemEncoded
+2017-09-01,BMC101,02-9700,1,2017-09-01,2017-08-11,2017-08-09,2017-06-30,21.0,23.0,63.0,21.0,19.0,3119

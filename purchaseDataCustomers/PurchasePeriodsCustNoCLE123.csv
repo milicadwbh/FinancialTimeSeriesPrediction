@@ -1,0 +1,2 @@
+InvDate,CustNo,ItemNo,InvQty,InvDay,PrevInvDate,T2InvDate,T3InvDate,DayDiff,DayDiff2,DayDiff3,DayDiffMean,DayDiffStd,ItemEncoded
+2017-12-05,CLE123,02-4035,14,2017-12-05,2017-12-01,2017-11-30,2017-11-08,4.0,5.0,27.0,9.0,11.357816691600547,1626

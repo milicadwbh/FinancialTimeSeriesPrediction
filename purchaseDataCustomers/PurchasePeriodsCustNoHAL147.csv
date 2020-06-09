@@ -1,0 +1,2 @@
+InvDate,CustNo,ItemNo,InvQty,InvDay,PrevInvDate,T2InvDate,T3InvDate,DayDiff,DayDiff2,DayDiff3,DayDiffMean,DayDiffStd,ItemEncoded
+2015-10-23,HAL147,02-7682,1,2015-10-23,2015-09-30,2015-08-05,2015-05-20,23.0,79.0,156.0,52.0,27.2213151776324,2648

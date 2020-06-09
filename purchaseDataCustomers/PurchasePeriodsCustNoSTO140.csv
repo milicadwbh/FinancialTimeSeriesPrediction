@@ -1,0 +1,2 @@
+InvDate,CustNo,ItemNo,InvQty,InvDay,PrevInvDate,T2InvDate,T3InvDate,DayDiff,DayDiff2,DayDiff3,DayDiffMean,DayDiffStd,ItemEncoded
+2015-07-30,STO140,SPC0202,1,2015-07-30,2015-06-04,2015-05-29,2015-05-04,56.0,62.0,87.0,29.0,25.238858928247925,4829

@@ -1,0 +1,2 @@
+InvDate,CustNo,ItemNo,InvQty,InvDay,PrevInvDate,T2InvDate,T3InvDate,DayDiff,DayDiff2,DayDiff3,DayDiffMean,DayDiffStd,ItemEncoded
+2016-03-31,JAC148,02-7386,2,2016-03-31,2016-01-28,2015-12-07,2015-08-13,63.0,115.0,231.0,77.0,34.219877264537345,2570

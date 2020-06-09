@@ -1,0 +1,2 @@
+InvDate,CustNo,ItemNo,InvQty,InvDay,PrevInvDate,T2InvDate,T3InvDate,DayDiff,DayDiff2,DayDiff3,DayDiffMean,DayDiffStd,ItemEncoded
+2017-09-18,CAN150,02-7231,3,2017-09-18,2016-07-14,2016-03-28,2016-01-18,431.0,539.0,609.0,203.0,198.36582366930045,2513

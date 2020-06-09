@@ -1,0 +1,2 @@
+InvDate,CustNo,ItemNo,InvQty,InvDay,PrevInvDate,T2InvDate,T3InvDate,DayDiff,DayDiff2,DayDiff3,DayDiffMean,DayDiffStd,ItemEncoded
+2016-03-23,HOM212,02-2374,2,2016-03-23,2016-03-08,2016-02-25,2016-02-16,15.0,27.0,36.0,12.0,3.0,1104
